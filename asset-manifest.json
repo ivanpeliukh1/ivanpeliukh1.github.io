@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.077f3728.css",
+    "main.js": "/static/js/main.f7e08954.js",
+    "static/js/787.ed3d7c5a.chunk.js": "/static/js/787.ed3d7c5a.chunk.js",
+    "static/media/downvoted.svg": "/static/media/downvoted.4fdbbec8df962da119b5.svg",
+    "static/media/downvote.svg": "/static/media/downvote.7da125c69d01d23d221f.svg",
+    "static/media/downvote_disabled.svg": "/static/media/downvote_disabled.d448a77bb25be478b303.svg",
+    "static/media/upvote.svg": "/static/media/upvote.3fdc120023cb01c8b007.svg",
+    "static/media/upvote_disabled.svg": "/static/media/upvote_disabled.9bee76cd06ca5d88eb6c.svg",
+    "static/media/upvoted.svg": "/static/media/upvoted.3867c37ae8c5cfdd8a54.svg",
+    "index.html": "/index.html",
+    "main.077f3728.css.map": "/static/css/main.077f3728.css.map",
+    "main.f7e08954.js.map": "/static/js/main.f7e08954.js.map",
+    "787.ed3d7c5a.chunk.js.map": "/static/js/787.ed3d7c5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077f3728.css",
+    "static/js/main.f7e08954.js"
+  ]
+}
